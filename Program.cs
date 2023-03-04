@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("--- Minhas frutas preferidas ---");
+﻿Console.WriteLine("--- Minhas frutas preferidas ---");
 Console.WriteLine();
 Console.WriteLine("1. Morango");
 Console.WriteLine("2. Mamão");
